@@ -1,0 +1,13 @@
+* {
+  font-family: Tahoma, sans-serif;
+
+}
+
+html {
+  background-color: rgb(255, 202, 159);
+  color: rgb(70, 0, 88)
+}
+
+li {
+  margin-top: 12px;
+}
